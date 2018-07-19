@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g  -shared -Wl,-soname,libmq.so -o libmq.so CMakeFiles/mq.dir/CBase64Code.cpp.o CMakeFiles/mq.dir/mqclient.cpp.o CMakeFiles/mq.dir/mq.cpp.o  -L/usr/local/ActiveMQ-CPP/lib -lactivemq-cpp -lpthread -lboost_serialization -Wl,-rpath,/usr/local/ActiveMQ-CPP/lib 

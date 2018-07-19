@@ -1,0 +1,6 @@
+/home/fanghua/workspace/cfiles/testmq/mq/build/CMakeFiles/rebuild_cache.dir
+/home/fanghua/workspace/cfiles/testmq/mq/build/CMakeFiles/edit_cache.dir
+/home/fanghua/workspace/cfiles/testmq/mq/build/CMakeFiles/testmq.dir
+/home/fanghua/workspace/cfiles/testmq/mq/build/deps/mq/CMakeFiles/edit_cache.dir
+/home/fanghua/workspace/cfiles/testmq/mq/build/deps/mq/CMakeFiles/rebuild_cache.dir
+/home/fanghua/workspace/cfiles/testmq/mq/build/deps/mq/CMakeFiles/mq.dir

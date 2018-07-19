@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././deps/mq/mq.h
+stdint.h
+-
+
+/home/fanghua/workspace/cfiles/testmq/mq/src/testmq.c
+stdio.h
+-
+mq.h
+/home/fanghua/workspace/cfiles/testmq/mq/src/mq.h
+
